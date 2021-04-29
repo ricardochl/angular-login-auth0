@@ -1,4 +1,4 @@
 {
-  "domain": "ricardochl.auth0.com",
-  "clientId": "ncVrbi9oSBFExuc5rLpGHXiLvPOlA0VX"
+  "domain": "YOUR_AUTH0_DOMAIN",
+  "clientId": "YOUR_AUTH0_CLIENT_ID"
 }
